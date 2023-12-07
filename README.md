@@ -10,7 +10,7 @@ This action automatically downloads and installs the Vulkan SDK development envi
   -name: Install Vulkan SDK
    uses: humbletim/install-vulkan-sdk@v1.1.2
    with:
-     version: 1.3.204.1
+     version: 1.3.250.1
      cache: true
 ```
 
@@ -28,11 +28,13 @@ Several recent SDK releases (known to have installers available for all three wi
 - 1.2.198.1
 - 1.3.204.1
 - 1.3.250.1
+- 1.3.261.1
+- 1.3.268.0
 
 ##### Available SDK versions (as of 2023.09.22):
-  - <sub><sup>[windows.json](https://vulkan.lunarg.com/sdk/versions/windows.json):  1.3.261.1 / 1.3.250.1 / 1.3.243.0 / 1.3.239.0 / 1.3.236.0 / 1.3.231.1 / 1.3.224.1 / 1.3.216.0 / 1.3.211.0 / 1.3.204.1 / 1.2.198.1 / 1.2.189.2 / 1.2.189.0 / 1.2.182.0</sup></sub>
-  - <sub><sup>[linux.json](https://vulkan.lunarg.com/sdk/versions/linux.json): 1.3.261.1 / 1.3.250.1 / 1.3.243.0 / 1.3.239.0 / 1.3.236.0 / 1.3.231.2 / 1.3.231.1 / 1.3.224.1 / 1.3.216.0 / 1.3.211.0 / 1.3.204.1 / 1.2.198.1 / 1.2.189.0 / 1.2.182.0</sup></sub>
-  - <sub><sup>[mac.json](https://vulkan.lunarg.com/sdk/versions/mac.json): 1.3.261.1 / 1.3.250.1 / 1.3.243.0 / 1.3.239.0 / 1.3.236.0 / 1.3.231.1 / 1.3.224.1 / 1.3.216.0 / 1.3.211.0 / 1.3.204.1 / 1.2.198.1 / 1.2.189.0 / 1.2.182.0</sup></sub>
+  - <sub><sup>[windows.json](https://vulkan.lunarg.com/sdk/versions/windows.json): 1.3.268.0 / 1.3.261.1 / 1.3.250.1 / 1.3.243.0 / 1.3.239.0 / 1.3.236.0 / 1.3.231.1 / 1.3.224.1 / 1.3.216.0 / 1.3.211.0 / 1.3.204.1 / 1.2.198.1 / 1.2.189.2 / 1.2.189.0</sup></sub>
+  - <sub><sup>[linux.json](https://vulkan.lunarg.com/sdk/versions/linux.json): 1.3.268.0 / 1.3.261.1 / 1.3.250.1 / 1.3.243.0 / 1.3.239.0 / 1.3.236.0 / 1.3.231.2 / 1.3.231.1 / 1.3.224.1 / 1.3.216.0 / 1.3.211.0 / 1.3.204.1 / 1.2.198.1 / 1.2.189.0</sup></sub>
+  - <sub><sup>[mac.json](https://vulkan.lunarg.com/sdk/versions/mac.json): 1.3.268.1 / 1.3.268.0 / 1.3.261.1 / 1.3.250.1 / 1.3.243.0 / 1.3.239.0 / 1.3.236.0 / 1.3.231.1 / 1.3.224.1 / 1.3.216.0 / 1.3.211.0 / 1.3.204.1 / 1.2.198.1 / 1.2.189.0</sup></sub>
 </sup></sub>
 -->
 
